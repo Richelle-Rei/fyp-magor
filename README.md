@@ -1,11 +1,11 @@
 # MAGOR Web Application
 
 
-## Name: Valerie Richelle Reivanka
-## Project Title: MAGOR Dynamic Tags Display
-## Supervisor: Prof Chng Eng Siong
-## Start Date: 1 August 2026
-## End Date: 16 April 2027
+### Name: Valerie Richelle Reivanka
+### Project Title: MAGOR Dynamic Tags Display
+### Supervisor: Prof Chng Eng Siong
+### Start Date: 1 August 2026
+### End Date: 16 April 2027
 
 ## Overview
 MAGOR is a video repository platform that supports video playback, transcription, and informational captions that provide emotion, sound, and image descriptions. These captions are currently hardcoded in the front-end of the project, which introduces scalability problems whenever a new annotation type needs to be supported, every new caption type requires direct changes to the application code.
