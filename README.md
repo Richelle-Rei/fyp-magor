@@ -1,5 +1,5 @@
 # MAGOR Web Application
----
+
 
 ## Name: Valerie Richelle Reivanka
 ## Project Title: MAGOR Dynamic Tags Display
